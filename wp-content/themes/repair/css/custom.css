@@ -1,0 +1,123 @@
+/* your styles go here */
+
+.navbar-brand.home{
+	/*height: 100%;*/
+	/*width: 100%;*/
+}
+.navbar-brand.home img{
+	height: 47px;
+}
+.jumbotron .text-left{
+float: left;
+}
+
+.jumbotron .text-right{
+float: right;
+}
+.jumbotron {
+    padding-top: 148px;
+    padding-bottom: 148px;
+}
+.testimonial{
+	padding: 20px 0px;
+
+}
+
+.about-us {
+    background: #272727;
+    color: #FFF;
+}
+
+.focus, .works, .about-us, .features, .packages, .products, .testimonial, .contact-us {
+    padding-top: 100px;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section {
+    display: block;
+}
+.section-header {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.about-us .column {
+    /*margin-bottom: 78px;*/
+}
+
+.about-us .big-intro {
+    text-align: right;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: normal;
+    margin-top: -15px;
+}
+
+.skills {
+    text-align: left;
+    margin: 0 0 0 0;
+}
+.skills .skill {
+    display: block;
+    clear: both;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+.skills .skill .section-legend {
+    text-transform: uppercase;
+    font-weight: 700;
+    clear: none;
+    width: auto;
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.about-us p {
+    text-align: left;
+    color: #939393;
+    font-size: 14px;
+    line-height: 25px;
+}
+.skills .skill p {
+    line-height: 20px;
+    font-size: 14px;
+    color: #8f8f8f;
+}
+
+.section-header h2, #focus .section-header h2 a, #team .section-header h2 a, #aboutus .section-header h2 a, #testimonials .section-header h2 a, #contact .section-header h2 a {
+    padding-bottom: 10px;
+    line-height: 40px;
+    position: relative;
+    display: inline-block;
+    font-size: 45px;
+    text-transform: uppercase;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+.white-text {
+    color: #FFFFFF;
+}
+.background-dark{
+	background: #555555;
+}
+textarea.form-control {
+	height: 100px;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.btn {
+/*    font-weight: 700;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;*/
+    padding: 10px 20px;
+ /*   font-size: 13px;
+    line-height: 1.42857143;
+ *//*   border-radius: 0;*/
+}
+#get-it h3 i{
+    padding-right: 10px;
+}

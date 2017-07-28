@@ -1,0 +1,78 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-07-28 16:31:01
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.14
+WORDPRESS:	4.8
+PHP INFO:	7.0.4 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (1536M default) 
+MEMORY STACK: 20MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:20 | filtered:0 | create:20 
+FILTERED: [] 
+SQL CREATED: 20170727_esmofix_feccbd61e52e99fc9326170728163052_database.sql 
+SQL FILE SIZE: 589.63KB (603785) 
+SQL FILE TIME: 2017-07-28 16:31:01 
+SQL RUNTIME: 0.27 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  D:/Google_Drive/OpenServer/domains/repair 
+ARCHIVE FILE: 20170727_esmofix_feccbd61e52e99fc9326170728163052_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	49.12MB 
+STATS:	Dirs 212 | Files 2,060 
+SQL ADDED: 20170727_esmofix_feccbd61e52e99fc9326170728163052_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2272
+    [filename] => D:\Google_Drive\OpenServer\domains\repair\wp-snapshots\tmp\20170727_esmofix_feccbd61e52e99fc9326170728163052_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 24.7MB 
+ARCHIVE RUNTIME: 19.07 sec. 
+MEMORY STACK: 20MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [D:/Google_Drive/OpenServer/domains/repair/wp-snapshots/tmp/20170727_esmofix_feccbd61e52e99fc9326170728163052_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 589.63KB 
+Installer File: 431.98KB 
+Archive File: 24.7MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 19.71 sec.
+PEAK PHP MEMORY USED: 22MB
+DONE PROCESSING => 20170727_esmofix 2017-07-28 16:31:21
+ 
